@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Google Maps">
+  <path fill="#34A853" d="M24 4C15.2 4 8 11.2 8 20c0 11.6 16 24 16 24s16-12.4 16-24C40 11.2 32.8 4 24 4z"/>
+  <path fill="#4285F4" d="M24 4v40s16-12.4 16-24C40 11.2 32.8 4 24 4z"/>
+  <path fill="#FBBC04" d="M24 4v16h16C40 11.2 32.8 4 24 4z"/>
+  <circle cx="24" cy="20" r="7" fill="#fff"/>
+  <circle cx="24" cy="20" r="4.2" fill="#EA4335"/>
+</svg>
